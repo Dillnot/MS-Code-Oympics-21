@@ -52,7 +52,7 @@ are Player 2's cards. You can assume that all hands are valid (no invalid
 characters or repeated cards), each player's hand is in no specific order, and in
 each hand, there is a clear winner.
 
-The output should be the number of hands player 1 wins, example input is poker_input.txt. Full marks for correct answer
+The output should be the number of hands player 1 wins, example input is poker_input.txt with answer of 42. Full marks for correct answer
 
 ## Challenge 4 - procedural pumpkin asci art generator
 We want you to write a script that procedurally generates random pumpkins in the
